@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi there, I am Kalidass Mani aka Kalidass 
+### Hi there 👋 I am Kalidass Mani aka Kalidass 
 
 **Some things about me:**
 
