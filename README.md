@@ -5,7 +5,7 @@ Hi there, I am Kalidass Mani aka Kalidass
 **Some things about me:**
 
 🔭 work : Senior SDET and passionate about Automation & Internet of things <br/>
-🌱 I wish to be : Entrepreneur  :D <br/>
+🌱 I wish to be : an Entrepreneur  :D <br/>
 🤔 I’m willing to help with : software testing challenges, Java Coding, Automation Framework Design & Architecture<br/>
 💬 Ask me about Software testing, UI automation, API Automation (SoapUi, Postman, RestAssured)<br/>
 🌍 I am mostly active on [LinkedIn](https://www.linkedin.com/in/kalidassmani/)<br/>
